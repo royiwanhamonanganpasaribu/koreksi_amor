@@ -1,0 +1,1 @@
+kelompok: IIf(public_kredit.clt2019_krd=1;'Aktiva';IIf(public_kredit.clt2019_krd=2;'Kewajiban';IIf(public_kredit.clt2019_krd=3;'Pendapatan';IIf(public_kredit.clt2019_krd=4;'Pendapatan';IIf(public_kredit.clt2019_krd=4;'Pendapatan';)))))
